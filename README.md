@@ -1,6 +1,6 @@
 # UX portfolio template 1920
 
-## Name: Thibault
+## Name: Thibault Janseghers
 
 ## Group: 1AVDa
 
