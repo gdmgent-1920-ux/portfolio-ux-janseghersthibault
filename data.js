@@ -10,10 +10,10 @@ const data = {
      */
 
     "general": {
-        "firstName": "Thibault",      // fill in with your own first name
-        "lastName": "Janseghers",    // fill in with your own last name
-        "class": "1AVDa",            // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
-        "studentnumber": "114216"  // fill in with your student number
+        "firstName": "Thibault", // fill in with your own first name
+        "lastName": "Janseghers", // fill in with your own last name
+        "class": "1AVDa", // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
+        "studentnumber": "114216" // fill in with your student number
     },
 
     /**
@@ -21,8 +21,7 @@ const data = {
      */
 
     "assignment1": {
-        "buttons": [
-            {
+        "buttons": [{
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
                 "href": "./assignments/assignment1/documents/a1-inspiration.pdf",
@@ -36,7 +35,7 @@ const data = {
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/4e656f17-391c-4880-669d-828928f61a0e-3854/",
                 "target": "_blank"
             }
         ]
@@ -47,8 +46,7 @@ const data = {
      */
 
     "assignment2": {
-        "buttons": [
-            {
+        "buttons": [{
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie",
                 "href": "./assignments/assignment2/documents/a2-inspiration.pdf",
@@ -73,8 +71,7 @@ const data = {
      */
 
     "assignment3": {
-        "buttons": [
-            {
+        "buttons": [{
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document met Wireframes & Visual Design",
                 "href": "./assignments/assignment3/documents/a3-wireframes-visual-designs.xd",
@@ -99,8 +96,7 @@ const data = {
      */
 
     "assignment4": {
-        "buttons": [
-            {
+        "buttons": [{
                 "text": "Analyse",
                 "title": "Mijn PDF met een analyse van de gemaakte fouten",
                 "href": "./assignments/assignment4/documents/a4-analysis.pdf",
@@ -130,13 +126,11 @@ const data = {
      */
 
     "assignment5": {
-        "buttons": [
-            {
-                "text": "Website",
-                "title": "Mijn website voor opdracht 5",
-                "href": "./assignments/assignment5/website/index.html",
-                "target": "_blank"
-            }
-        ]
+        "buttons": [{
+            "text": "Website",
+            "title": "Mijn website voor opdracht 5",
+            "href": "./assignments/assignment5/website/index.html",
+            "target": "_blank"
+        }]
     }
 }
